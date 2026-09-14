@@ -1,4 +1,5 @@
 # C EMBEDDED NOTES
+
 Just to serve as a reference about C coding.
 
 __[1. FUNDAMENTALS](01_FUNDAMENTALS/)__ - Data Types and Variables, Address of Variables, Storage Classes, Functions.
@@ -40,3 +41,9 @@ __[18. EMBEDDED BIT FIELDS](18_EMBEDDED_BIT_FIELDS/)__ - Led toggle using bit fi
 __[19. ARRAYS](19_ARRAYS/)__ - The basics about array.
 
 __[20. PRE-PROCESSOR](20_PRE_PROCESSOR/)__ - The basics about pre-processor directives.
+
+---
+
+v1.0 - My first big repo, created in 2023, I tagged it before beginning to clean
+up a little bit, to keep it serving as my personal reference, but I also want to
+see how it was when I began.
