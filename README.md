@@ -10,9 +10,9 @@ organization example.
 
 __[3. EMBEDDED HELLO WORLD](03_EMBEDDED_HELLO_WORLD/)__ - Hello world using printf in SWD protocol.
 
-__[4. FLOATING POINT](04_FLOATING_POINT/)__ - Floating point use example.
+__[4. Floating Point](04_floating_point/)__ - Floating point use example.
 
-__[5. POINTERS](05_POINTERS/)__ - Most important basic things about pointers.
+__[5. Pointers](05_pointers/)__ - Most important basic things about pointers.
 
 __[6. OPERATORS](06_OPERATORS/)__ - Most important basic things about operators.
 
