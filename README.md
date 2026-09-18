@@ -8,13 +8,13 @@ Variables, Storage Classes, Functions.
 __[2. Math](02_math//)__ - Math program, with good Makefile and files
 organization example.
 
-__[3. EMBEDDED HELLO WORLD](03_EMBEDDED_HELLO_WORLD/)__ - Hello world using printf in SWD protocol.
+__[3. Embedded Hello World](03_embedded_hello_world/)__ - Hello world using printf in SWD protocol.
 
 __[4. Floating Point](04_floating_point/)__ - Floating point use example.
 
 __[5. Pointers](05_pointers/)__ - Most important basic things about pointers.
 
-__[6. OPERATORS](06_OPERATORS/)__ - Most important basic things about operators.
+__[6. Operators](06_operators/)__ - Most important basic things about operators.
 
 __[7. DECISION MAKING](07_DECISION_MAKING/)__ - Summary about if, else, else if, conditional operator and switch case.
 
