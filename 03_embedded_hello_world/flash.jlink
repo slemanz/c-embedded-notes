@@ -1,0 +1,11 @@
+device STM32F411RE
+si swd
+speed 4000
+
+r
+h
+loadbin Build/flash.bin 0x08000000
+r
+g
+
+qc
