@@ -38,7 +38,8 @@ a button.
 
 __[14. Volatile](14_volatile/)__ - About `volatile` type qualifier in C.
 
-__[15. STRUCTURES](15_STRUCTURES/)__ - Summary about main important things about structures.
+__[15. Structures](15_structures/)__ - Summary about main important things about
+structures.
 
 __[16. STRUCTURES BIT FIELDS](16_STRUCTURES_BIT_FIELDS/)__ - Exercise to understand the bit fields with struct and its extraction content.
 
