@@ -13,7 +13,7 @@
 
 int main(void) {
 
-	// will be used the GPIOC -> PIN 8
+	// will be used the GPIOC -> PIN 13
 	// enabling the peripheral clock
 	// RCC address -> 0x40023800
 	// AHB1EN address -> 0x40023800 + 0x30
@@ -29,14 +29,14 @@ int main(void) {
 	// pin 8 -> bit 17 and 16 : value 01 to output
 	uint32_t *GPIO_mode = (uint32_t *)(0x40020800 + 0x00);
 	//*GPIO_mode = 0x0000 | (1 << 16);
-	*GPIO_mode &= ~(1 << 17); // clear
-	*GPIO_mode |= (1 << 16);  // set
+	*GPIO_mode &= ~(1 << 27); // clear
+	*GPIO_mode |= (1 << 26);  // set
 
 
 	// GPIO port output data register -> 0x40020800 + 0x14
-	// pin 8 ->
+	// pin 13 ->
 	uint32_t *GPIO_output = (uint32_t *)(0x40020800 + 0x14);
-	*GPIO_output |= (1 << 8);
+	*GPIO_output &= ~(1 << 13);
 
 
 	for(;;);
