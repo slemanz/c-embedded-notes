@@ -23,12 +23,12 @@ conditional operator and switch case.
 __[8. Bitwise Operators](08_bitwise_operators/)__ - All about main bitwise
 operations and the mainly applications (set, clear, test and toggle).
 
-__[9. Embedded Led On](09_embedded_led_on/)__ - Code to turn on a led with step
+__[9. Embedded Led On](09_EMBEDDED_LED_ON/)__ - Code to turn on a led with step
 by step guide.
 
 __[10. Looping](10_looping/)__ - Summary about loops in C.
 
-__[11. EMBEDDED LED TOGGLE](11_EMBEDDED_LED_TOGGLE/)__ - Code to turn on and off with for delay.
+__[11. Embedded Led Toggle](11_EMBEDDED_LED_TOGGLE/)__ - Code to turn on and off with for delay.
 
 __[12. Const](12_const/)__ - About `const` type qualifier in C.
 
